@@ -1,0 +1,28 @@
+.block {
+    display: block;
+    background-color: aquamarine;
+
+}
+
+.inline {
+    display: inline;
+    background-color: crimson;
+    padding-right: 10px;
+    margin-right: 10px;
+}
+
+#box-one {
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    border: 5px solid cornflowerblue;
+    margin: 30px;
+}
+
+#box-two {
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    border: 5px solid cornflowerblue;
+    margin: 30px;
+}
